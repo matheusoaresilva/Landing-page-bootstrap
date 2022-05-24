@@ -13,7 +13,7 @@
 }
 
 .cor-especial{
-  color: darkred;
+  color: darkred!important; 
 }
 
 .botao-cor-especial{
